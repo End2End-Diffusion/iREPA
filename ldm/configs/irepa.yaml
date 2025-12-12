@@ -1,0 +1,7 @@
+# iREPA configuration (improved)
+# Usage: accelerate launch train.py --config configs/irepa.yaml ...
+
+projection_layer_type: conv
+proj_coeff: "1.0"
+spnorm_method: zscore
+repa_loss: true

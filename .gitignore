@@ -1,0 +1,61 @@
+# OS and editor
+*.DS_Store
+.vscode/
+
+# Python
+**/__pycache__/
+
+# Data and model artifacts
+data
+metrics/data/
+!dataset.py
+pretrained/
+pretrained_models
+exps/
+exps_dbgs/
+exps_irepa_400k/
+samples/
+wandb/
+ckpts/
+slurm_outputs*
+classify_image_graph_def.pb
+
+# Feature caches
+*_feats/
+*_feats*
+lp_feats*
+lp_flux_feats*
+lp_sd3_feats*
+vae_latents*
+
+# Claude/AI
+.claude/
+CLAUDE.md
+AGENTS.md
+
+# Internal files
+logs/
+tmp_jobs/
+core.*
+docs/
+paper-figures/
+sevals/
+segmentation_batch1024_seed42/
+.gitmodules
+gather_results.py
+filenames-permission-adobe.md
+files/
+
+# For release cleanup
+helper_scripts/
+tmp_scripts/
+sjobs*/
+todos.md
+ldm/README.md
+jit/README.md
+ldm/preprocessing/README.md
+ldm/evals/
+jit/evals/
+*.sh
+evaluate256.py
+dinov3

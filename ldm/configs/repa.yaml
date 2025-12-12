@@ -1,0 +1,7 @@
+# REPA configuration (original)
+# Usage: accelerate launch train.py --config configs/repa.yaml ...
+
+projection_layer_type: mlp
+proj_coeff: "0.5"
+spnorm_method: none
+repa_loss: true
