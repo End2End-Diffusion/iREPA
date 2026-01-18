@@ -83,7 +83,7 @@ def get_eval_names_xl() -> Dict[str, str]:
         "langpe-vit-l": "sit-xl-2-sdvae-enc8-langpe-l_cfg1.0-seed0-modesde-steps250.csv",
         "langpe-vit-g": "sit-xl-2-sdvae-enc8-langpe-g_cfg1.0-seed0-modesde-steps250.csv",
         "spatialpe-vit-b": "sit-xl-2-sdvae-enc8-spatialpe-b_cfg1.0-seed0-modesde-steps250.csv",
-        "spatialpe-vit-l": "sit-xl-2-sdvae-enc8-langpe-l_cfg1.0-seed0-modesde-steps250.csv",
+        "spatialpe-vit-l": "sit-xl-2-sdvae-enc8-spatialpe-l_cfg1.0-seed0-modesde-steps250.csv",
         "spatialpe-vit-g": "sit-xl-2-sdvae-enc8-spatialpe-g_cfg1.0-seed0-modesde-steps250.csv",
         "cradio-vit-b": "sit-xl-2-sdvae-cradio-b-enc8-coeff0.5_cfg1.0-seed0-modesde-steps250.csv",
         "cradio-vit-l": "sit-xl-2-sdvae-cradio-l-enc8-cosine0.5_cfg1.0-seed0-modesde-steps250.csv",
