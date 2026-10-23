@@ -220,3 +220,7 @@ We thank the authors for making their work publicly available!
   year={2025}
 }
 ```
+
+## Security maintenance
+
+See [the security dependency update](SECURITY_UPDATE_2026-10-24.md) before recreating environments.

@@ -16,7 +16,7 @@ babel==2.17.0
 beautifulsoup4==4.13.4
 bitsandbytes==0.47.0
 bleach==6.2.0
-certifi==2025.8.3
+certifi==2026.10.19
 cffi==1.17.1
 charset-normalizer==3.4.3
 clean-fid==0.1.35
